@@ -1,0 +1,8 @@
+{
+  "name": "Aura AI Chat",
+  "description": "An advanced AI-powered social platform featuring intelligent chat, AR camera filters, real-time video call analysis, and a voice companion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
